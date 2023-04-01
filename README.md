@@ -4,7 +4,7 @@
 ![Home Page](./img/website-1.png)
 
 ## Customize Page with help of open api
-![Home Page](./img/website-2.png)
+![Home Page](./img/Website-2.png)
 
 ## Tech Stacks & Libraries
 - React
